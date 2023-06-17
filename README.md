@@ -1,3 +1,10 @@
+<img src="https://raw.githubusercontent.com/DoHaiSon/DoHaiSon/master/Banner.png" alt="Banner">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DoHaiSon/count.svg" />
+</p>
+
 ### Hi 👋, I am [Do Hai Son](https://dohaison.github.io/) from VietNam.
 
 - 🔭 I’m currently working on Cyber Security & Wireless Communication areas
