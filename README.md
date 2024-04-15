@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Education & Research partners
 - 🤔 I’m looking for help with Mathematics (Optimization & Deep-Learning)
 - 💬 Ask me about any questions related to GNU Radio, and Python
-- 📫 How to reach me: [dohaison1998@vnu.edu.vn](mailto:dohaison1998@vnu.edu.vn)
+- 📫 How to reach me: [dohaison1998@gmail.com](mailto:dohaison1998@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Luck is a possibility
 
