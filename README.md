@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DoHaiSon/count.svg" />
+  <img src="https://profile-counter.deno.dev/DoHaiSon/count.svg" />
 </p>
 
 ### Hi 👋, I am [Do Hai Son](https://dohaison.github.io/) from VietNam.
